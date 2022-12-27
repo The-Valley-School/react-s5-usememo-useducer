@@ -2,6 +2,7 @@ import './App.css';
 import Results from './Results/Results';
 import OrderedPosts from './OrderedPosts/OrderedPosts';
 import Counter from './Counter/Counter';
+import TodoList from './TodoList/TodoList';
 
 const posts = [
   {
@@ -21,6 +22,9 @@ const posts = [
 function App() {
   return (
     <div className="App">
+
+      <h2>Lista de tareas:</h2>
+      <TodoList></TodoList>
 
       <h2>Contador:</h2>
       <Counter></Counter>
