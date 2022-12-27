@@ -1,6 +1,7 @@
 import './App.css';
 import Results from './Results/Results';
 import OrderedPosts from './OrderedPosts/OrderedPosts';
+import Counter from './Counter/Counter';
 
 const posts = [
   {
@@ -20,6 +21,9 @@ const posts = [
 function App() {
   return (
     <div className="App">
+
+      <h2>Contador:</h2>
+      <Counter></Counter>
 
       <h2>Lista de noticias ordenadas:</h2>
       <OrderedPosts posts={posts}></OrderedPosts>
