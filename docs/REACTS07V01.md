@@ -2,7 +2,7 @@
 
 En esta sesión vamos a hablar de React.useMemo:
 
-[https://es.reactjs.org/docs/hooks-reference.html#usememo](https://es.reactjs.org/docs/hooks-reference.html#usememo) 
+<https://es.reactjs.org/docs/hooks-reference.html#usememo>
 
 React.useMemo es un hook en React que te permite optimizar el rendimiento de tu componente al recordar los resultados de llamadas a funciones costosas. Recibe como argumento una función y una lista de dependencias, y sólo vuelve a calcular el resultado de la función si alguna de las dependencias ha cambiado:
 

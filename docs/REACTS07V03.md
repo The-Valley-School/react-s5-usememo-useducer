@@ -2,7 +2,7 @@
 
 En los próximos vídeos trabajaremos con useReducer:
 
-[https://reactjs.org/docs/hooks-reference.html#usereducer](https://reactjs.org/docs/hooks-reference.html#usereducer) 
+<https://reactjs.org/docs/hooks-reference.html#usereducer>
 
 React.useReducer es un hook en React que te permite gestionar el estado de una manera predecible, similar a cómo usarías una función reductora con la librería Redux. Recibe como argumento una función reductora y un estado inicial, y devuelve el estado actual y una función dispatch que puedes usar para actualizar el estado.
 

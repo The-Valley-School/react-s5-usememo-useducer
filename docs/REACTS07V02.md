@@ -58,7 +58,7 @@ export default OrderedPosts;
 
 Algunas de las cosas adicionales que hemos visto en este vídeo son el uso de Array.sort
 
-[https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/sort](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/sort) 
+<https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/sort>
 
 NOTA:
 

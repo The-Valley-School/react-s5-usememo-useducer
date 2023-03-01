@@ -16,3 +16,7 @@ Al final de la lista de productos habrá una suma del total de los importes, est
 Fíjate que también hay un botón para eliminar los productos de la lista. Si has implementado todo correctamente, al eliminar el producto la suma se volverá a calcular.
 
 ¡Mucho ánimo!
+
+Recuerda que el código que hemos visto durante los vídeos puedes encontrarlo en el siguiente repositorio:
+
+<https://github.com/The-Valley-School/react-s7-usememo-useducer>
